@@ -15,3 +15,5 @@
  plan_name VARCHAR2(8),
  amount NUMBER(5)
  );
+ 
+  CREATE SEQUENCE rechid START WITH 1001;
